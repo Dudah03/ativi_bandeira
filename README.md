@@ -1,1 +1,2 @@
-# ativi_bandeira
+git init
+git remote add origin
